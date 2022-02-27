@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Many wonderful and very remakeable [sic] passages, vvhich hath come to passe within the memorie of man here in this our nation. And also of the manifold deliverencies we have had by the power of God from the devowring sword. Humbly presented to the consideration of the honorable House of Commons, now assembled in Parliament, and to all the loving people of Great Brittaine. By a well wisher both of church and state.</title>
+            <author>Well wisher both of church and state.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89514</idno>
+            <idno type="STC">Wing M555</idno>
+            <idno type="STC">Thomason E134_16</idno>
+            <idno type="STC">ESTC R3940</idno>
+            <idno type="EEBO-CITATION">99872539</idno>
+            <idno type="PROQUEST">99872539</idno>
+            <idno type="VID">156406</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156406)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Many wonderful and very remakeable [sic] passages, vvhich hath come to passe within the memorie of man here in this our nation. And also of the manifold deliverencies we have had by the power of God from the devowring sword. Humbly presented to the consideration of the honorable House of Commons, now assembled in Parliament, and to all the loving people of Great Brittaine. By a well wisher both of church and state.</title>
+                  <author>Well wisher both of church and state.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  History --  Early Stuarts, 1603-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156406:1"/>
+            <pb facs="tcp:156406:1" rendition="simple:additions"/>
+            <p>MANY WONDERFVL AND VERY REMAKEABLE PASSAGES, VVHICH HATH come to paſſe within the Memorie of Man here in this our Nation.</p>
+            <p>And alſo of the manifold deliverencies we have had by the power of God from the devowring Sword.</p>
+            <p>Humbly preſented to the conſideration of the Honorable Houſe of Commons, now aſſem<g ref="char:EOLhyphen"/>bled in PARLIAMENT, and to all the loving people of <hi>Great Brittaine.</hi>
+            </p>
+            <q>I will praiſ the Lord with all my heart: I will declare all thy wonderfull wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <bibl>Pſal. 9. verſe 1.</bibl>
+            </q>
+            <p>By a well wiſher both of Church and State.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Thompſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156406:2"/>
+            <pb facs="tcp:156406:2"/>
+            <head>Wonderfull Deliverances of <hi>England</hi> from the Sword ſince the memory of Man.</head>
+            <head type="sub">By the Power of GOD onely, to whom be Praiſe.</head>
+            <p>THe firſt was in the yeare of our Lord Chriſt 1588. When the Pope &amp; the King of <hi>Spaine</hi> with his in vinſible Navie (ſo called by them) conſiſting of 160. great ſhipps of Warre, with Men and Ammunition for 40000. land Souldiers, did attempt to invade this Land: with whom our Navie conſiſting of but 50. <hi>Engliſh</hi> ſhipps and 30 Dutch under conduct of <hi>Charles</hi> Earle of <hi>Noting<g ref="char:EOLhyphen"/>ham,</hi> Sir <hi>Francis Drake,</hi> and ſir <hi>Martine Furbiſher,</hi> did meete (not farre from the Coaſt of <hi>Plymouth</hi>) &amp; fought with them valiantly (although they were much inferiour in Number and ſtrength unto them) for the ſpace of two dayes and more, untill they came over againſt <hi>Callis,</hi> where the Spani<g ref="char:EOLhyphen"/>ard expected to meet an other fleet with 30000. more land forces from the Duke of <hi>Parma</hi> the Generall for the King of <hi>Spaine</hi> in the <hi>Low-Countries,</hi> where at <hi>Callis</hi> the <hi>Spaniſh</hi> Fleet remained at Ancor, untill it pleaſed God to put into the minde of Sir <hi>Frances Drake</hi> to ſet 3 old ſhips or Hoyes ſtuffed with combuſtible matter, and ſet them on Sea in the Tide way, and they drave with the tyde upon the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Navie being at Ancor in forme of a halfe Moone, upon the ſuddaine view whereof, every <hi>Spaniſh</hi> ſhip did thinke himſelfe in danger, and every one cut their Cables to give roome to the burning ſhippes, whereat the Engliſh ſhips
+<pb facs="tcp:156406:3"/>taking advantage of the Southerly windes, did joyne moſt corragiouſly, and followed them Northwards two dayes, when and where the LORD OF HOSTS by a ſtormie winde ſent them beyond &amp; among the Iſles <hi>Orcades,</hi> where they periſhed to their great confuſion, in ſo much as ſcarce 20. of 160. returned home to <hi>Spaine:</hi> And thus by the mighty hand of the Lord <hi>England</hi> was delivered under the conduct of the aforeſaid Commanders, and aſſiſtance of the Noble Sea-men of <hi>England</hi> and <hi>Holland,</hi> ſuch as is the Honorable Lord <hi>Seſſcild</hi> Earle of <hi>Moltgrave, William</hi> Lord <hi>Harvie,</hi> and poore <hi>Mathew Dale</hi> now one of <hi>Suttons Hoſpi<g ref="char:EOLhyphen"/>tall</hi> being yet living eye witneſſes of that great deliverance of God, to whom be everlaſting praiſe.</p>
+            <p>The ſecond was in the yeare of our Lord 1597. being the yeare after <hi>Cales</hi> voyage: at what time <hi>Robert</hi> Earle of <hi>Eſſex, Thomas</hi> Lord <hi>Howard,</hi> and Sir <hi>Walter Raghly</hi> had the command of 100. Shipps <hi>Engliſh</hi> and <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tch,</hi> with all the valiant active Gentrie of <hi>England,</hi> being put to Sea, for ſome great deſigne againſt the profeſſed enemie of <hi>Spaine,</hi> in the Bay of <hi>Portugall</hi> meeting with a croſſe winde were driven backe to <hi>Plymouth</hi> (as it were ſent to ſecure Home) where being repaired of the Sea loſſes, they put to ſea a<g ref="char:EOLhyphen"/>gaine; and caſting by the land of <hi>Portugall,</hi> taking ſome <hi>Orange Carvills</hi> were advertiſed by them that there was an Hundred ſaile of great ſhippes of warre <hi>Spaniſh</hi> and <hi>Eaſter<g ref="char:EOLhyphen"/>lings</hi> prepared at the <hi>Groynd,</hi> and lay cloſe moored up un<g ref="char:EOLhyphen"/>der the Caſtle thereof, which the <hi>Engliſh</hi> Gentrie hearing, they conceived that it was for feare of them, but it proved otherwiſe, for when the <hi>Engliſh</hi> were departed from the Coaſt of <hi>Spaine</hi> weſtward to the Iſle of <hi>Terceres,</hi> to waite for the Weſt Indie fleete. Then did the King of <hi>Spaine</hi> intend with the helpe of the Popiſh faction to invade and conquer <hi>England,</hi> and even at the tyme when the <hi>Engliſh</hi> Fleet was returning homeward, God Almightie ſent a verie great
+<pb facs="tcp:156406:3"/>ſtorme at Sea, which kept the <hi>Engliſh</hi> fleet backe with a moſt tempeſtuous croſſe winde for 3 dayes, that they could not (though they had Sea Roome) get one mile home<g ref="char:EOLhyphen"/>wards, which winde &amp; ſtorme was by God appoynted to be a deliverance to the Realme of <hi>England,</hi> for even then were the 100. ſayle of Shipps (that lay mored in the Harbour of the <hi>Groyne</hi>) readie to land in <hi>Enland,</hi> and were entred into the narrow Sea called the <hi>Sleeve</hi> when the tempeſt did be<g ref="char:EOLhyphen"/>gin, and ſome of them were entred ſo farre into the <hi>Sleeve,</hi> as they could not play backe againe, but three of them were met by the Lord <hi>Thomas Howard</hi> and his ſquadron, and were taken priſoners, and were brought into <hi>England,</hi> a<g ref="char:EOLhyphen"/>mong whom was taken the feild Marſhalls Concubine and put into Bridewell <hi>London,</hi> where many reſorted to ſee her, that bee yet living, and were in the voyage and remember well that this was the mercifull deliverance of God by the blaſt of his noſtrils to ſcatter the enemies of his people of <hi>England,</hi> for which alſo let us praiſe the Lord our God for ever. At that time were the noble Souldiers Sir <hi>Nicolus Parker</hi> and ſir <hi>Fardinando Gorges</hi> made governours of <hi>Ply<g ref="char:EOLhyphen"/>mouth</hi> and <hi>Famouth Caſtles.</hi> We pray God as good men bee in them now.</p>
+            <p>The third was <hi>Anno Dom.</hi> 1605. and in the ſecond yeare of King <hi>Iames,</hi> when that moſt execrable maſſacree of King, Nobles and Commons in Parliament, and the roy<g ref="char:EOLhyphen"/>all iſſue, (even his Majeſtie that now is, whom God pre<g ref="char:EOLhyphen"/>ſerve) ſhould have beene at one blow, blowne up into the Aaire, if God had not beene our deliverer by the diſcove<g ref="char:EOLhyphen"/>rie of a Letter ſent unto the Lord <hi>Mounteagle,</hi> though dark<g ref="char:EOLhyphen"/>ly expreſſed, yet found out by the wiſe genius of that ever bleſſed peace lover King <hi>Iames,</hi> whoſe fame never dye, whoſe race never faile, nor praiſe never ceaſe to bee given to God therefore. This curſed and helliſh powder Treaſon, let it ever be abhord in heart, but never depart out of the
+<pb facs="tcp:156406:4"/>mouth and memory of them that love the Lord and his people, that God may have his due praiſe for ever.</p>
+            <p>The fourth delivery was in the yeare 1639. When Noble <hi>Van Trump</hi> met with the <hi>Spaniſh</hi> Navie, conſiſting of 66. Huge Ships, beſides a great many of Carvills, and ſmall Ships going to <hi>Dunkirke,</hi> at which time our Gracious King was incenſed againſt the Scotiſh nation, and through falſe &amp; deceaveable incenduaries, was provoked to prepare an armie royall able to diſtract and teare in peeces, if not to deſtroy that ancient and noble Nation, one of the beau<g ref="char:EOLhyphen"/>tifull flowers of his Diadem, at this time was prepared a great and impenitrable Navie, if it had met with the Na<g ref="char:EOLhyphen"/>vie of <hi>Dunkirke</hi> impenitrable, becauſe many of their great Ships were made free from the ſhoot of the cannon bullet; but God derided their ſtrength therein, and found meanes by the valiant Dutch Nation to diſſipate them, and ſincke many of them by fire workes, ſetting them on fire from a<g ref="char:EOLhyphen"/>bove the water to burne downewards, to their confuſion and the laſting memorie of the <hi>Hollanders,</hi> and the memo<g ref="char:EOLhyphen"/>rable praiſe of their valiant Commanded <hi>Van Trumpe</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Spaniard</hi> and <hi>Dunkerkers,</hi> whoſe intentions both by Sea and Land was by this fleete to effect a double feate. Firſt if they had landed at <hi>Dunkirke</hi> being ioyned both fleets together, to have left thoſe novice Souldiers that were aboard the Fleet at the fight with <hi>Van Trumpe</hi> in the Low Countries, and thereto have ſtuffed both their fleets with old Souldiers, and brought them over to <hi>England,</hi> to have ioyned with the power of the Papiſts in the <hi>South,</hi> when our army was in the <hi>North</hi> ready to encounter with the Scotiſh Nation, and ſo to have infeſted us with a double warre, which being done this fleete was to depart to the <hi>Baltick</hi> Sea, to have made themſelves Maſters of that Sea; and to have commanded the Straight of <hi>Elſenver,</hi> which if they had effected by this meanes, they had kept both the Swedes in <hi>Germany</hi> from releife out of their own
+<pb facs="tcp:156406:4"/>Country, and ſet ſuch a combuſtion in <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> as would not have beene ſoone nor eaſily quenched, and thereto <hi>Ireland</hi> would not have beene idle, as this pre<g ref="char:EOLhyphen"/>ſent revolt doth manifeſt, how dangerous a deſigne would this have been, if the Almighty had not been our deliverer and Protector both by Sea and Land; by Sea, by the help of that bleſſed Nation the <hi>Hollanders;</hi> and by Land God him<g ref="char:EOLhyphen"/>ſelfe inclyned the heart of our Gracious King to forbeare armes or blood in his owne inheritance, to entertaine a truce, and now to conclude a bleſſed peace with that our brother Nation, which the God of Heaven continue fore<g ref="char:EOLhyphen"/>ver, and let both Nations yeild continuall thankes for this never to be forgotten mercy, and curſed be the wit of that Architophell which ſhall counſell, goe about, or effect the diviſion of theſe two Nations at any time hereafter.</p>
+            <p>The fift &amp; laſt, but not the leaſt deliverance from blood<g ref="char:EOLhyphen"/>ſhead and ſlaughter of the Kings owne Sacred perſon, a<g ref="char:EOLhyphen"/>mongſt his dearely beloved and moſt loving Subjects the houſe of Commons in Parliament aſſembled, was upon the 4<hi rend="sup">th</hi> day of <hi>Iannuary</hi> 1641. When the King was incenſed by Siniſter Practiſes of Sycophanting and detracting Eare<g ref="char:EOLhyphen"/>wiggs to provoke him to goe in perſon to the Houſe of Commons, where never King was before him, to doe that which never King did before, to require in his owne per<g ref="char:EOLhyphen"/>ſon in a formidable manner <hi>ad terrorem Populi,</hi> the delivery of certaine worthy members of the Houſe of Commons, even againſt the Priviledge of the Houſe, as witneſſeth the whole houſe of Parliament (ſince in a declaration of theirs) which if this had taken the intended purpoſe, and if any the parties required, had beene there found, what direfull ef<g ref="char:EOLhyphen"/>fect might this have wrought, what lamentable iſſue would have followed, God alone knoweth. For put the caſe the Houſe of Commons had refuſed to give up their fellow Members to Priſon, or worſe; which might be expected from them, and at that time have ſtood upon their Privi<g ref="char:EOLhyphen"/>ledge,
+<pb facs="tcp:156406:5"/>as at this time they do, what then had bin the ſequell but contention, Coertion, and ſlaughter, which if it had come to that, how ſhould the ſacred perſon of his Majeſty have eſcaped violence, what ſlaughter of the Houſe of Commons, who would have warranted the Nobles and Peeres, and how farre this ſlaughter would have ſpread, or was intended ſecretly, God hath not yet revealed. But ſure<g ref="char:EOLhyphen"/>ly this may be preſumed that whoſoever adviſed his Maje<g ref="char:EOLhyphen"/>ſty to put his perſon into ſuch a hazard, would prove no better then Traytors, if they were put upon the tryall of their Peeres: but God of his wonted mercy hath dealt bet<g ref="char:EOLhyphen"/>ter with us then our merrits deſerve, for he ſtirred up the hearts of ſome well willing Subiects to run in haſt before his comming, to advertiſe them thereof, and God moved againe the friends of the Gentlemen purſued, to perſwade them that were there, to depart before the Kings com<g ref="char:EOLhyphen"/>ming; which falling out ſo, that the King found none of them there, his gentle Nature and unwilling diſpoſition to that buſineſſe did eaſily let fall this enterpriſe, and ſo retur<g ref="char:EOLhyphen"/>ned in peace, for which, &amp; alſo for the former deliverances, let us render everlaſting thankſgiving, to that moſt great and good God which hath done all this for us, and alſo up<g ref="char:EOLhyphen"/>on all our ſolemne faſts &amp; feaſt days, let us in a ſpeciall man<g ref="char:EOLhyphen"/>ner make it our buſines to put on another in mind how gra<g ref="char:EOLhyphen"/>cious God hath beene to this Nation in our dayes, that we may love God for his goodneſſe, and love one another tru<g ref="char:EOLhyphen"/>ly for Gods ſake, that we all being united in the love of God, may be ſo ſtrengthned thereby, that all the malice en<g ref="char:EOLhyphen"/>vie rage and conſpi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acies of the Devill and devilliſh people may not prevaile againſt us, for the time to come, to the Glory of God throughout all the world, and through all ages, for evermore, <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
